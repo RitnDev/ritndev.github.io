@@ -1,3 +1,3 @@
 # Documentations
 
-- [RitnLib](RitnLib/en/home.md)
+- [RitnLib](/RitnLib/en/home.md)
